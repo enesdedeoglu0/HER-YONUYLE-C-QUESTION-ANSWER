@@ -1,5 +1,6 @@
 # HER-YONUYLE-C-QUESTION-ANSWER
-//ENES DEDEOĞLU - e.dedeoglu@mekatronik.org.tr
+ENES DEDEOĞLU - e.dedeoglu@mekatronik.org.tr
+
 
 HER YÖNÜYLE C - TEVFİK KIZILÖREN - KODLAB
 
