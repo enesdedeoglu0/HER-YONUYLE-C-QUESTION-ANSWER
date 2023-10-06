@@ -1,0 +1,3 @@
+C:/Users/Monster/Desktop/CLİON/6.BOLUM SONU SORULAR 1/cmake-build-debug/CMakeFiles/6_BOLUM_SONU_SORULAR_1.dir
+C:/Users/Monster/Desktop/CLİON/6.BOLUM SONU SORULAR 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Monster/Desktop/CLİON/6.BOLUM SONU SORULAR 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
