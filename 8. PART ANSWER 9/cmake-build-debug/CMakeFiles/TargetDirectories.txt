@@ -1,0 +1,3 @@
+C:/Users/Monster/Desktop/CLİON/KODLAR/8. BOLUM SONU SORULARI 11/cmake-build-debug/CMakeFiles/8__BOLUM_SONU_SORULARI_11.dir
+C:/Users/Monster/Desktop/CLİON/KODLAR/8. BOLUM SONU SORULARI 11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Monster/Desktop/CLİON/KODLAR/8. BOLUM SONU SORULARI 11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
